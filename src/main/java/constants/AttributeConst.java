@@ -1,6 +1,6 @@
 package constants;
 
-public class AttributeConst {
+public enum AttributeConst {
 
     //フラッシュメッセージ
     FLUSH("flush"),
